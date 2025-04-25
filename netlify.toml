@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+  Content-Security-Policy = "style-src-elem 'self' 'nonce-N0NCE'; style-src 'self' 'nonce-N0NCE';"
